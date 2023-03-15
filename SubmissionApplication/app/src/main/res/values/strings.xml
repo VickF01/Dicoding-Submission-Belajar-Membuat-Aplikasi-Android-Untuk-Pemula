@@ -1,0 +1,160 @@
+<resources>
+    <string name="app_name">Swift e-Catalog</string>
+    <string name="processor">Processor</string>
+    <string name="highlights">Highlights :</string>
+    <string name="specification">Specification :</string>
+    <string name="operating_system">Operating System</string>
+    <string name="memory">Memory</string>
+    <string name="storage">Storage</string>
+    <string name="screen">Screen</string>
+    <string name="graphics">Graphics</string>
+    <string name="features">Features</string>
+    <string name="price">Start From</string>
+    <string name="share">Share</string>
+    <string name="name">Vicky Fransisco</string>
+    <string name="email">vickyfrans1@gmail.com</string>
+
+    <string-array name="laptop_name">
+        <item>Acer Swift 3 Now</item>
+        <item>Acer Swift 3 OLED</item>
+        <item>Acer Swift 3 Infinity 4</item>
+        <item>Acer Swift Edge 16 inch OLED</item>
+        <item>Acer Swift X</item>
+        <item>Acer Swift 5 Aerospace</item>
+        <item>Acer Swift 5 Antimicrobial</item>
+        <item>Acer Swift 3 Ryzen 5000</item>
+        <item>Acer Swift 3 Air 3</item>
+        <item>Acer Aspire 5 Slim - Creator Edition Laptop</item>
+    </string-array>
+
+    <string-array name="laptop_highlights">
+        <item>Get Better Visual on Colorful Display (100% sRGB) and Higher Resolution (2.5K), 2X Longer Battery Life and Get Instant Wake on every activity with Intel Evo Certified, Spotlight Your Virtual Presence with FHD Camera and Noise Cancellation.</item>
+        <item>Work or Play, Feel the powerful machine to create faster comes with OLED-Eyesafe™ for cinematic entertainment experience.</item>
+        <item>Trendy, all metal sleek chassis (1.2kg-15.9mm), elevated hinge design, Rich and bright color (100% sRGB FHD IPS Panel in ultra-narrow bezels 85,73%), PCIe Gen4 SSD, Multiple Cooling Boost (Fn+F), Acer PurifiedVoice (Noise Cancellation)</item>
+        <item>The World’s Lightest 16” Premium Laptop. The Lightest with 1.1kg, up to 10.5 hours with fast charge, and 2X Stronger than normal alumunium, Stunning Visual in Your Pocket. Experience sensational color on 4K OLED with cinema-grade 100% DCI-P3 and safe for eyes guarantee (TUV EyeSafe), Center of Attraction. “Chameleon” sparkling blue effect presenting Elegant, Intelligent and Creativity</item>
+        <item>Stylish and Powerful for Content Creation with New Powerful Nvidia Graphics, Pumping out a consistently rich and bright color with 100% sRGB FHD IPS Panel in ultra-narrow bezels 85,73%, Up to 20% Airflow improvement with All New Fan Design, Air Inlet Keyboard Design and Wider Air Vent.</item>
+        <item>Luxury ultraportable design with high durability aerospace-grade aluminium, Gaming power-on by 12th Gen Intel® Core™ processor (+47% performance) with Intel Evo Certification and high-performing Dual Fan cooling system, 2K Touch Display with Antimicrobial Corning Glass</item>
+        <item>Full Antimicrobial Solutions (on screen, touchpad, and all surfaces), Durable and lighweight with only 1kg with Mg-Li and Mg-Al metal chassis, Easy to carry, smaller dimention with 90% body ratio display, All new dual pipe cooling system.</item>
+        <item>Trendy, all metal sleek chassis. 1.2kg-15.9mm and elevated hinge design, Rich and bright color with 100% sRGB FHD IPS Panel in ultra-narrow bezels 85,73%, Performance upgrade 20% compared to previous gen processor and multiple cooling modes.</item>
+        <item>268% more detail and sharpen resolution with 2K display, compared to HD display, 18% more vertical view with 3:2 screen ratio, 1.4X longer battery life, up to 18 hours battery life, Durable and lighweight with only 1.2 kg with Mg-Li and Mg-Al metal chassis.</item>
+        <item>Choose Your Power on Multiple Cooling Modes and Enjoy Up to 20% Higher Performance, Fastest and Reliable Connectivity with Thunderbolt 4 and Wifi 6E, Brighter Camera with TNR Technology and AI Noise Cancellation (Acer PurifiedVoice)
+</item>
+    </string-array>
+
+    <string-array name="laptop_cpu">
+        <item>Intel® Core™ i5–1240P processor</item>
+        <item>Intel Core i7–12700H processor (Intel Evo Certified)</item>
+        <item>Intel® Core™ i7–1165G7 processor</item>
+        <item>AMD Ryzen 7 6800U processor</item>
+        <item>AMD RyzenTM 7 5800U octa-core processor</item>
+        <item>Processor Intel® Core™ i7-1260P processor</item>
+        <item>Intel® Core™ i7-1165G7 processor</item>
+        <item>AMD Ryzen™ 5 5500U processor</item>
+        <item>Intel® Core™ i7-1165G7 processor</item>
+        <item>Intel® Core™ i5-1240P processor</item>
+    </string-array>
+
+    <string-array name="laptop_os">
+        <item>Windows 11 Home</item>
+        <item>Windows 11 Home</item>
+        <item>Windows 10 Home (Upgrade to Windows 11 available)</item>
+        <item>Windows 11 Home</item>
+        <item>Windows 11 Home</item>
+        <item>Windows 11 Home</item>
+        <item>Windows 10 Home</item>
+        <item>Windows 11 Home</item>
+        <item>Windows 10 Home</item>
+        <item>Windows 11 Home</item>
+    </string-array>
+
+    <string-array name="laptop_ram">
+        <item>16 GB LPDDR4X Dual Channel memory</item>
+        <item>16 GB LPDDR5 Dual Channel Memory</item>
+        <item>16 GB LPDDR4X Dual Channel memory</item>
+        <item>16 GB LPDDR5 Dual Channel Memory</item>
+        <item>16 GB LPDDR4X Dual Channel memory</item>
+        <item>16 GB of LPDDR5 Dual Channel memory</item>
+        <item>16 GB LPDDR4X Dual Channel memory</item>
+        <item>16GB LPDDR4X Dual Channel Memory</item>
+        <item>16 GB LPDDR4X Dual Channel memory</item>
+        <item>8 GB DDR4 (Upgradeable using 1X Slot Free)</item>
+    </string-array>
+
+    <string-array name="laptop_storage">
+        <item>512 GB SSD NVMe Gen4 (2 Slot)</item>
+        <item>1 TB SSD PCIe NVMe Gen4</item>
+        <item>512 GB SSD PCIe Gen4 NVMe</item>
+        <item>1 TB SSD PCIe NVMe Gen4</item>
+        <item>512 GB SSD NVMe Gen3</item>
+        <item>1 TB SSD PCIe Gen4, NVMe</item>
+        <item>512 PCIe Gen3, 8 Gb/s, NVMe</item>
+        <item>512 GB SSD NVMe</item>
+        <item>512 PCIe Gen3, 8 Gb/s, NVMe</item>
+        <item>512 GB SSD NVMe Gen4</item>
+    </string-array>
+
+    <string-array name="laptop_screen">
+        <item>14.0" QHD 2560 x 1440, IPS Display, high-brightness (300nits) Acer ComfyView™ LED-backlit TFT LCD, 16:9 aspect ratio, color gamut sRGB 100%</item>
+        <item>14" 2.8K (2880 x 1800), OLED with TUV Rheinland EyeSafe, 100% DCI-P3, 90 Hz, 0.2ms, Display HDR 500, 500 nits, 16:10 aspect ratio.</item>
+        <item>14" IPS Full HD (1920 x 1080), high-brightness (300nits), Acer ComfyView™ LED-backlit TFT LCD, 100% sRGB</item>
+        <item>16" 4K (3840 x 2400), OLED with TUV Rheinland EyeSafe, 100% DCI-P3, 60 Hz, 0.2ms, Display HDR 500, 400 nits, 16:10 aspect ratio.</item>
+        <item>14" IPS, Full HD (1920 x 1080), high-brightness (300nits) Acer ComfyView™ LED-backlit TFT LCD, 100% sRGB</item>
+        <item>14.0" IPS, WQXGA (QHD) 2560 x 1600, 16:10, 100% sRGB, 425 nits. Acer CineCrystal™ LED-backlit TFT LCD, supporting multi-touch and Antibacterial Corning Gorilla glass"</item>
+        <item>14" IPS Full HD (1920 x 1080), high-brightness (340 nits) Acer ComfyView™ LED-backlit TFT LCD, multi-touch, 100% sRGB.</item>
+        <item>14" IPS Full HD (1920 x 1080), 100% sRGB, high-brightness (300nits) Acer ComfyView™ (nonglare) LED-backlit TFT LCD, 16:9,Wide viewing angle up to 170 degrees, Mercury free, environment friendly</item>
+        <item>13.5" VertiView display IPS 2K (2256 x 1504), Acer CineCrystal™ LED-backlit TFT LCD, 3:2 aspect ratio, 100% sRGB, Wide viewing angle up to 170 degrees.</item>
+        <item>15.6", Full HD (1920 x 1080), IPS, Acer ComfyView™ LED-backlit TFT LCD</item>
+    </string-array>
+
+    <string-array name="laptop_gpu">
+        <item>Intel® Iris® Xe Graphics 80 EU</item>
+        <item>Intel Iris Xe Graphics (96 EU)</item>
+        <item>Intel® Iris® Xe Graphics 96 EU</item>
+        <item>AMD Radeon™ 680M</item>
+        <item>Nvidia Geforce RTX 3050Ti (4GB GDDR6)</item>
+        <item>Intel® Iris® Xe Graphics 96 EU</item>
+        <item>Intel® Iris® Xe Graphics</item>
+        <item>AMD Radeon Graphics</item>
+        <item>Intel® Iris® Xe Graphics</item>
+        <item>NVIDIA GEFORCE RTX 2050 (4GB GDDR6)</item>
+    </string-array>
+
+    <string-array name="laptop_features">
+        <item>Acer Purified Voice (Noise Cancellation), FHD Camera, Thunderbolt 4™</item>
+        <item>Smart Fingerprint, Thunderbolt 4, Bluelight Shield Technology</item>
+        <item>Thunderbolt 4™, Fingerprint, Backlight</item>
+        <item>Smart Fingerprint, Bluelight Shield Technology</item>
+        <item>Fingerprint, Backlight</item>
+        <item>Acer PurifiedVoice (Noise Cancellation) and FHD Camera with Acer TNR</item>
+        <item>Antimicrobial, Mg-Al, 1kg, 90% body ratio</item>
+        <item>Fingerprint, Backlight Keyboard, Multiple Cooling Modes</item>
+        <item>2K Display, Thunderbolt 4™, Fingerprint, Backlight</item>
+        <item>Thunderbolt, AI Noise Reduction, HD TNR</item>
+    </string-array>
+
+    <integer-array name="laptop_price">
+        <item>12499000</item>
+        <item>16499000</item>
+        <item>15649000</item>
+        <item>22999000</item>
+        <item>19499000</item>
+        <item>21999000</item>
+        <item>24225000</item>
+        <item>10655000</item>
+        <item>17675000</item>
+        <item>13499000</item>
+    </integer-array>
+
+    <string-array name="laptop_picture">
+        <item>https://static-ecapac.acer.com/media/mf_webp/jpg/media/catalog/product/cache/bd4621b95a9782df56a4048f6a07bc46/s/f/sf314-512-577v_2_nx.k7jsm.002_1_nx.k7jsn.003.webp</item>
+        <item>https://static-ecapac.acer.com/media/mf_webp/png/media/catalog/product/cache/bd4621b95a9782df56a4048f6a07bc46/a/c/acer-swift-3-sf314-17-fingerprint-backlit-on-wallpaper-win11-luxury-gold-01_nx.kawsn.003_1_1.webp</item>
+        <item>https://static-ecapac.acer.com/media/mf_webp/png/media/catalog/product/cache/bd4621b95a9782df56a4048f6a07bc46/s/w/swift-3-sf314-511-fpbl1-gradient-electric-blue-win11-01c_1.webp</item>
+        <item>https://static-ecapac.acer.com/media/mf_webp/png/media/catalog/product/cache/bd4621b95a9782df56a4048f6a07bc46/s/f/sfa16-41_1_nx.kabsn.001.webp</item>
+        <item>https://static-ecapac.acer.com/media/mf_webp/png/media/catalog/product/cache/bd4621b95a9782df56a4048f6a07bc46/a/c/acer-swift-x-sfx14-42g-fingerprint-backlit-wallpaper-win11-steel-gray-01_2.webp</item>
+        <item>https://static-ecapac.acer.com/media/mf_webp/png/media/catalog/product/cache/bd4621b95a9782df56a4048f6a07bc46/s/w/swift-5-aerospace-intel-evo-core-i7_2_nx.k0ksn.004.webp</item>
+        <item>https://static-ecapac.acer.com/media/mf_webp/png/media/catalog/product/cache/bd4621b95a9782df56a4048f6a07bc46/a/c/acer-swift-5_sf514-55_wp_fp_green_09_rescale__2.webp</item>
+        <item>https://static-ecapac.acer.com/media/mf_webp/png/media/catalog/product/cache/bd4621b95a9782df56a4048f6a07bc46/s/w/swift-3-sf314-43-fpbl-sv-win11-01c.webp</item>
+        <item>https://static-ecapac.acer.com/media/mf_webp/png/media/catalog/product/cache/bd4621b95a9782df56a4048f6a07bc46/a/c/acer-swift-3_sf313-53-53g_fp-backlit_silver_light-wallpaper-win11-1000main.webp</item>
+        <item>https://static-ecapac.acer.com/media/mf_webp/png/media/catalog/product/cache/bd4621b95a9782df56a4048f6a07bc46/a/5/a514-55_nx.k9tsn.001.webp</item>
+    </string-array>
+</resources>
